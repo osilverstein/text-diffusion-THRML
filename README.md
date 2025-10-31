@@ -1,6 +1,8 @@
 # text-diffusion-THRML
 Run text to text diffusion using Extropic THRML
 
+Trains a 4-step text diffusion model to convert a synthetic dataset of natural language dates to YYYY-MM-DD format.
+
 
 Clone the THRML repo; and get it running.
 
